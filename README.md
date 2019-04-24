@@ -2,7 +2,6 @@
 Put your knowledge and memory to the test with this clicky game.
 
 ## What is this?
-
         This is a simple memorization and click game. The object of the game is to click on only one character once.  If you repeat guesses, you lose and the score is reset to 0.  You win by reaching the max score total of 12.
 
 ## How to Play:
@@ -23,4 +22,4 @@ Put your knowledge and memory to the test with this clicky game.
 - Run `npm start`
 
 ## Technologies:
-`React` | `Javascript` | `HTML5` | `CSS` | `ES6` | `Twitter Bootstrap` | `Git` | `Heroku`
+`React`  |  `Javascript`  |  `HTML5`  |  `CSS`  |  `ES6`  |  `Twitter Bootstrap`  |  `Git`  |  `Heroku`
